@@ -22,6 +22,13 @@ Repositório apenas para fins de fixação de conhecimentos e assuntos abordados
   - **Governança** : Permite que empresas controlem quem faz o quê, onde e como, dentro do ambiente de nuvem. Ferramentas como Azure Policy, Management Groups, BluePrints e Role-Based Access Control (RBAC) garantem governança efetiva.
   - **Gerenciabilidade** : Centralização da administração de recursos em portais, APIs, CLI e automações. Monitoramento contínuo com Azure Monitor, Log Analytics e Application Insights.
 
+## 03 - Tipos de Servicos na nuvem: 
+ * A nuvem dispobinibiliza 3(Três) principais servicos, são eles Iaas(Infraestrutura como servico), Paas(Plataforma como servico) e Saas(Software como servico). E logo cada um tem o seu nível de controle:
+ * **Iaas** : Fornece recursos de computação, armazenamento e rede sob demanda, como máquinas virtuais, servidores e armazenamento em disco. Você gerencia: Rede, servidores, sistemas operacionais, armazenamento. O provedor cuida: Da infraestrutura física (datacenters, energia, hardware).
+ * **Paas** : Oferece uma plataforma para desenvolver, executar e gerenciar aplicações, incluindo hardware e software de desenvolvimento. Você gerencia: Apenas o aplicativo e os dados. O provedor cuida: Da infraestrutura, sistema operacional, runtime, servidores e banco.
+ * **Saas** : Fornece software de forma online, como aplicativos de produtividade, CRM e ERP, acessíveis através de um navegador web. O provedor gerencia tudo: Infraestrutura, aplicação, dados, manutenção, atualizações. O usuário consome: O software pronto.
+
+
 
 
 
