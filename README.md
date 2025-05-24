@@ -21,14 +21,16 @@ Repositório apenas para fins de fixação de conhecimentos e assuntos abordados
   - **Segurança** : Proteção de dados com criptografia em trânsito e em repouso. A segurança na nuvem é frequentemente mais robusta que em data centers próprios.
   - **Governança** : Permite que empresas controlem quem faz o quê, onde e como, dentro do ambiente de nuvem. Ferramentas como Azure Policy, Management Groups, BluePrints e Role-Based Access Control (RBAC) garantem governança efetiva.
   - **Gerenciabilidade** : Centralização da administração de recursos em portais, APIs, CLI e automações. Monitoramento contínuo com Azure Monitor, Log Analytics e Application Insights.
-
+---
 ## 03 - Tipos de Servicos na nuvem: 
  * A nuvem dispobinibiliza 3(Três) principais servicos, são eles Iaas(Infraestrutura como servico), Paas(Plataforma como servico) e Saas(Software como servico). E logo cada um tem o seu nível de controle:
  * **Iaas** : Fornece recursos de computação, armazenamento e rede sob demanda, como máquinas virtuais, servidores e armazenamento em disco. Você gerencia: Rede, servidores, sistemas operacionais, armazenamento. O provedor cuida: Da infraestrutura física (datacenters, energia, hardware).
  * **Paas** : Oferece uma plataforma para desenvolver, executar e gerenciar aplicações, incluindo hardware e software de desenvolvimento. Você gerencia: Apenas o aplicativo e os dados. O provedor cuida: Da infraestrutura, sistema operacional, runtime, servidores e banco.
  * **Saas** : Fornece software de forma online, como aplicativos de produtividade, CRM e ERP, acessíveis através de um navegador web. O provedor gerencia tudo: Infraestrutura, aplicação, dados, manutenção, atualizações. O usuário consome: O software pronto.
-
-
+---
+## 04 - Componentes de Arquitetura do AZURE: 
+ * Pares de Região: Os pares de Região do AZURE garantem uma melhor performance e garantia de recuperação caso haja algum problema com catastrofes que não estejam a nosso alcance para serem evitadas, como o maior exemplo nos EUA são os furacões e tempestades que atingem uma boa parte da costa leste do continente, e assim derrubando e desestabilizando conexões por toda parte do país. Para isso existe a estratégia de pares de região que podem suprir e ajudar a recompor os serviços que foram afetados garantindo **Alta disponibilidade**, **Recuperação de desastre** e **Redundância dos Dados**. Como por exemplo, a região principal do Brasil é Brasil-sul(São-Paulo) e sua região pareada é Brasil-Sudeste(Rio-SP).
+* Grupo de recursos: É um container lógico onde você agrupa recursos do Azure como; Bancos de dados, Maquinas virtuais, Redes, Storage e Web Apps. A sua principal finalidade é organizar recursos por projeto, aplicação ou ambiente (dev, homologação, produção).
 
 
 
