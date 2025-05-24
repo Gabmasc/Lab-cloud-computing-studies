@@ -31,6 +31,12 @@ Repositório apenas para fins de fixação de conhecimentos e assuntos abordados
 ## 04 - Componentes de Arquitetura do AZURE: 
  * Pares de Região: Os pares de Região do AZURE garantem uma melhor performance e garantia de recuperação caso haja algum problema com catastrofes que não estejam a nosso alcance para serem evitadas, como o maior exemplo nos EUA são os furacões e tempestades que atingem uma boa parte da costa leste do continente, e assim derrubando e desestabilizando conexões por toda parte do país. Para isso existe a estratégia de pares de região que podem suprir e ajudar a recompor os serviços que foram afetados garantindo **Alta disponibilidade**, **Recuperação de desastre** e **Redundância dos Dados**. Como por exemplo, a região principal do Brasil é Brasil-sul(São-Paulo) e sua região pareada é Brasil-Sudeste(Rio-SP).
 * Grupo de recursos: É um container lógico onde você agrupa recursos do Azure como; Bancos de dados, Maquinas virtuais, Redes, Storage e Web Apps. A sua principal finalidade é organizar recursos por projeto, aplicação ou ambiente (dev, homologação, produção).
+---
+## 05 - Computacao e Rede:
+ * Conjunto de dimensionamento em vm: É um serviço que permite criar e gerenciar um grupo de máquinas virtuais idênticas que podem ser dimensionadas automaticamente (aumentar ou reduzir) com base na demanda ou em métricas específicas, como CPU, memória ou fila de requisições. Pode ser usado quando aplicações web ou APIs que precisam atender picos de acesso. Grandes processamentos paralelos, como renderização ou análise de dados.
+ * vantegens do Vm scale set: **Alta disponibilidade**, **Escalabilidade automática**, **Redução de custos**, **Integração com CI/CD, monitoramento e segurança**.
+
+
 
 
 
