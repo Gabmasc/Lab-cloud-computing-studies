@@ -41,15 +41,13 @@ Repositório apenas para fins de fixação de conhecimentos e assuntos abordados
 * No exemplo abaixo eu coloquei um poema da Cecília Meireles para ver qual seria a análise retornada. É um poema bem melancólico e triste, porém a acertividade foi de 100% em compreender o nível sentimental a ser transmitido.
 * 
 
-
-
-
 ![azureLenguage](https://github.com/user-attachments/assets/201ab617-9221-451a-bac6-e34d64632bde)
 
 ![azureLenguage2](https://github.com/user-attachments/assets/e077011b-d4f9-4a8e-a21f-40730c064c32)
 
 
-
+## 07 - AZURE Busca cognitiva:
+* Serviço este que é a soma de outros serviços, mas no geral é responsável por verificar padrões em valores de entidades em textos e documentos mais complexos. A utilização do AZURE Storage Account fica responsável por armazenar os tipos de arquivos a serem recebidos e armazená-los em núvem.
 
 
 
