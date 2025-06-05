@@ -36,6 +36,8 @@ Repositório apenas para fins de fixação de conhecimentos e assuntos abordados
  * Conjunto de dimensionamento em vm: É um serviço que permite criar e gerenciar um grupo de máquinas virtuais idênticas que podem ser dimensionadas automaticamente (aumentar ou reduzir) com base na demanda ou em métricas específicas, como CPU, memória ou fila de requisições. Pode ser usado quando aplicações web ou APIs que precisam atender picos de acesso. Grandes processamentos paralelos, como renderização ou análise de dados.
  * vantegens do Vm scale set: **Alta disponibilidade**, **Escalabilidade automática**, **Redução de custos**, **Integração com CI/CD, monitoramento e segurança**.
 
+---
+
 ## 06 - IA Azure para análise de texto:
 * Este serviço do Azure fornece uma IA para detectar possíveis níveis de sentimentos em textos, como por exemplo, em reclamações ou em feedback de algum serviço ou funcionalidade desenvolvida recentimente. Este serviço é bem útil para se ter uma noção de como está a adaptação de clientes a novos serviços disponibilizados ou pontos a melhorar.
 * No exemplo abaixo eu coloquei um poema da Cecília Meireles para ver qual seria a análise retornada. É um poema bem melancólico e triste, porém a acertividade foi de 100% em compreender o nível sentimental a ser transmitido.
@@ -45,11 +47,14 @@ Repositório apenas para fins de fixação de conhecimentos e assuntos abordados
 
 ![azureLenguage2](https://github.com/user-attachments/assets/e077011b-d4f9-4a8e-a21f-40730c064c32)
 
-
+---
 ## 07 - AZURE Busca cognitiva:
 * Serviço este que é a soma de outros serviços, mas no geral é responsável por verificar padrões em valores de entidades em textos e documentos mais complexos. A utilização do AZURE Storage Account fica responsável por armazenar os tipos de arquivos a serem recebidos e armazená-los em núvem.
 
+## 08 - IA Generativa Responsável:
+* A IA generativa é uma área de IA voltada para a criação de novos conteúdos do zero, como por exemplo, imagens, textos, música, vídeo e códigos. Para ser possível acontecer essa IA utiliza profundos amarzenanmentos de dados, códigos complexos, como rede neurais para aprender os padrões e o relacionamento dentro dos dados.
+* Logo abaixo está uma imagem como exemplo da IA Copilot, que é uma IA da microsoft me ajudando a desenvolver um código simples. Mas um aviso caso você leia até aqui. A IA chegou para auxiliar nas tomadas de decisões nas nossas vidas e não para substituir nossas decisões, como programador não utilizo muito a IA para gerar códigos, eu ainda prefiro passar algumas horas batendo cabeça com alguma task ou desafio, buscando e lendo artigos ou livros e por ultimo caso utilizo a IA para poder ter um balanceamento se aprendi algo ou ainda não estou pronto para resolver tal problema. Como dito antes a IA é para AUXILIAR no desenvolvimento de algo e não para ser uma escolha definitiva e concreta, logo que muitos códigos de IA tbm contém Erros e bugs, então fiquem atentos e revisem os códigos gerados por IA.
 
-
-
+*  
+![ia](https://github.com/user-attachments/assets/bfa74d0e-aa32-4903-9d1a-30599a89e1d9)
 
